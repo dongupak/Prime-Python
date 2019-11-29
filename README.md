@@ -47,12 +47,10 @@ https://www.python.org/
 ## 저자
 
 * **박 동규** - *창원대학교 정보통신공학과 교수* - [박동규교수 저장소](https://github.com/dongupak)
-
->> 이메일 : dongupak@gmail.com
+  - 이메일 : dongupak@gmail.com
 
 * **강 영민** - *동명대학교 게임공학과 교수* - [강영민교수 저장소](https://github.com/dknife)
-
->> 이메일 : young.min.kang@gmail.com
+  - 이메일 : young.min.kang@gmail.com
 
 * 기여자명단: [contributors](https://github.com/dongupak/Prime-Python/contributors)
 
