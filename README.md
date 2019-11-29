@@ -34,7 +34,7 @@ https://www.python.org/
 ## "으뜸 파이썬" 정오표
 
 * 이 책의 정오표는 다음 저장소를 보시기 바랍니다.
-  * [정오표](https://github.com/dongupak/Prime-Python/errata)
+  * [정오표](https://github.com/dongupak/Prime-Python/tree/master/errata)
 
 ## 기여하실 분
 
