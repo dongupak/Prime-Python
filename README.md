@@ -31,6 +31,11 @@ https://www.python.org/
 
 * 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
 
+## "으뜸 파이썬" 정오표
+
+* 이 책의 정오표는 다음 저장소를 보시기 바랍니다.
+** [정오표](https://github.com/dongupak/Prime-Python/errata)
+
 ## 기여하실 분
 
 이 코드에 이상이 있거나 기여를 하실 분은 Fork후에 Request를 주시기 바랍니다.
