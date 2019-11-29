@@ -5,53 +5,49 @@
 
 ## 시작하기
 
-생능출판사의 "으뜸 파이썬"은 파이썬의 기초부터 고급 기능까지를 폭넓게 다루고 있는 책으로
-프로그램을 처음 접하는 입문자를 위한 파이썬 설치에서부터 고급 표준 라이브러리, 넘파이까지 다루고있습니다.
-이 책의 소스코드는 이 곳에서 다운 받아서 실습에 사용할 수 있습니다.
+생능출판사의 "으뜸 파이썬"은 파이썬의 기초부터 고급 기능까지를 폭넓게 다루고 있는 책입니다.
+이 책은 프로그램을 처음 접하는 입문자를 위한 파이썬 설치에서부터 고급 표준 라이브러리, 넘파이까지 다루고있습니다.
+이 책에 나타나는 소스코드는 이 github 저장소에서 다운 받아서 실습에 사용할 수 있습니다.
 
 ### 사전 지식
 
 이 저장소의 코드를 실행하기 위해서는 다음 웹 사이트에 접속하여 파이썬 IDLE를 다운받아 설치하여야 합니다.
-
 ```
 https://www.python.org/
 ```
 
 ### 파이썬 설치
 
-파이썬 설치에 관한 단계별 절차는 책 1장에서 다루고 있습니다.
+파이썬 설치를 위한 단계별 절차는 책 1장에서 다루고 있습니다.
 설치단계는 https://www.python.org/ 에 접속하여 다운받아 설치만 하면 됩니다.
 별도의 복잡한 단계는 없습니다.
 
 ## 테스트 코드 수행하기
 
 이 코드는 파이썬 IDLE에서 수행할 수 있습니다.
+또한 jupyter-notebook 폴더의 내용은 주피터 노트북이나 구글 colab등에서 실행해 볼 수 있습니다.
 
-## Deployment
+## 수행하기
 
-Add additional notes about how to deploy this on a live system
+* 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
 
-## Built With
+## 기여하실 분
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+이 코드에 이상이 있거나 기여를 하실 분은 Fork후에 Request를 주시기 바랍니다.
 
-## Contributing
+## 버저닝
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+이 저장소는 으뜸 파이썬 1판의 저장소로 2판, 3판에 따라 각각 다른 버전이 나타날 수 있습니다.
 
 ## 저자
 
-* **박 동규** - *창원대학교 정보통신공학과 교수* - [PurpleBooth](https://github.com/dongupak)
+* **박 동규** - *창원대학교 정보통신공학과 교수* - [박동규교수 저장소](https://github.com/dongupak)
 ** 이메일 : dongupak@gmail.com
-* **강 영민** - *동명대학교 게임공학과 교수* - [PurpleBooth](https://github.com/dknife)
+
+* **강 영민** - *동명대학교 게임공학과 교수* - [강영민교수 저장소](https://github.com/dknife)
 ** 이메일 : young.min.kang@gmail.com
-See also the list of [contributors](https://github.com/dongupak/Prime-Python/contributors) who participated in this project.
+
+* 기여자명단: [contributors](https://github.com/dongupak/Prime-Python/contributors)
 
 ## 저작권
 
