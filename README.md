@@ -1,4 +1,4 @@
-# 으뜸 파이썬
+# 으뜸 파이썬 저장소 소개
 
 이곳은 생능출판사의 "으뜸 파이썬" 관련 저장소입니다.
 이 책의 소스코드와 정오표등 다양한 자료와 정보를 업로드하겠습니다.
@@ -33,7 +33,7 @@ https://www.python.org/
 
 ## "으뜸 파이썬" 정오표
 
- * 이 책의 정오표는 다음 저장소를 보시기 바랍니다.
+* 이 책의 정오표는 다음 저장소를 보시기 바랍니다.
   * [정오표](https://github.com/dongupak/Prime-Python/errata)
 
 ## 기여하실 분
@@ -46,13 +46,13 @@ https://www.python.org/
 
 ## 저자
 
- * **박 동규** - *창원대학교 정보통신공학과 교수* - [박동규교수 저장소](https://github.com/dongupak)
+* **박 동규** - *창원대학교 정보통신공학과 교수* 
+  * [박동규교수 저장소](https://github.com/dongupak)
   * 이메일 : dongupak@gmail.com
-
- * **강 영민** - *동명대학교 게임공학과 교수* - [강영민교수 저장소](https://github.com/dknife)
+* **강 영민** - *동명대학교 게임공학과 교수* 
+  * [강영민교수 저장소](https://github.com/dknife)
   * 이메일 : young.min.kang@gmail.com
-
- * 기여자명단: [contributors](https://github.com/dongupak/Prime-Python/contributors)
+* 기여자명단: [contributors](https://github.com/dongupak/Prime-Python/contributors)
 
 ## 저작권
 
