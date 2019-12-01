@@ -16,6 +16,11 @@
 https://www.python.org/
 ```
 
+* 널널한 교수의 기초 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
+* 널널한 교수의 고급 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=HYg_Zp1186M&list=PL2P1Vm9k53HMUI3i_UKRfWc3ePzAVerhc
+ 
 ### 파이썬 설치
 
 파이썬 설치를 위한 단계별 절차는 책 1장에서 다루고 있습니다.
