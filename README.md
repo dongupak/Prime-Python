@@ -16,11 +16,6 @@
 https://www.python.org/
 ```
 
-* 널널한 교수의 기초 파이썬 Youtube 강좌
-  * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
-* 널널한 교수의 고급 파이썬 Youtube 강좌
-  * https://www.youtube.com/watch?v=HYg_Zp1186M&list=PL2P1Vm9k53HMUI3i_UKRfWc3ePzAVerhc
- 
 ### 파이썬 설치
 
 파이썬 설치를 위한 단계별 절차는 책 1장에서 다루고 있습니다.
@@ -41,6 +36,13 @@ https://www.python.org/
 * 이 책의 정오표는 다음 저장소를 보시기 바랍니다.
   * [정오표](https://github.com/dongupak/Prime-Python/tree/master/errata)
 
+### 도움이 될만한 동영상 강좌
+
+* 널널한 교수의 기초 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
+* 널널한 교수의 고급 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=HYg_Zp1186M&list=PL2P1Vm9k53HMUI3i_UKRfWc3ePzAVerhc
+ 
 ## 기여하실 분
 
 이 코드에 이상이 있거나 기여를 하실 분은 Fork후에 Request를 주시기 바랍니다.
