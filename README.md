@@ -11,7 +11,7 @@
 ### 넷째, 파이썬의 고급 개발자로 발돋움 할 수 있는 패키지와 리스트 축약표현 등의 활용법과 문제를 제공하였다.
 
 # 책의 목차
-* [목차](https://github.com/dongupak/Prime-Python/contents)
+* [목차](https://github.com/dongupak/Prime-Python/contents.md)
 
 ## 시작하기
 
