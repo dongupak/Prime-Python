@@ -14,7 +14,7 @@
 * [목차](https://github.com/dongupak/Prime-Python/blob/master/contents.md)
 : 으뜸 파이썬 책의 목차를 제공합니다.
 
-# 이 책을 통해 강의하시는 분을 위한 강의 계획서 예시
+# 이 책을 이용하여 강의를 하시는 분을 위한 강의 계획서
 * [강의계획서 예시](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
 : 강의에 활용하시는 강사님을 위한 강의목표, 강의안내, 주별 강의 계획서를 제공합니다.
 - 강의용 ppt 파일은 출판사 홈페이지를 통해 신청하실 수 있습니다.
