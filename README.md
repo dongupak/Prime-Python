@@ -12,11 +12,11 @@
 
 # 책의 목차
 * [목차](https://github.com/dongupak/Prime-Python/blob/master/contents.md)
-으뜸 파이썬 책의 목차를 제공합니다.
+: 으뜸 파이썬 책의 목차를 제공합니다.
 
 # 이 책을 통해 강의하시는 분을 위한 강의 계획서 예시
 * [강의계획서 예시](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
-강사님을 위한 주별 강의 계획서를 제공합니다.
+: 강의에 활용하시는 강사님을 위한 주별 강의 계획서를 제공합니다.
 
 ## 시작하기
 
