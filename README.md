@@ -46,9 +46,9 @@ https://www.python.org/
 ## 수행하기
 * 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
 * [주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
-** ipynb 확장자를 가지는 노트북 파일로 각 장별 코드가 제공됩니다.
+: ipynb 확장자를 가지는 노트북 파일로 각 장별 코드가 제공됩니다.
 * [파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
-** py 확장자를 가지는 파이썬 파일로 각 장별 코드가 제공됩니다.
+: py 확장자를 가지는 파이썬 파일로 각 장별 코드가 제공됩니다.
 
 ## "으뜸 파이썬" 정오표
 
