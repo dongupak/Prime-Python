@@ -17,7 +17,7 @@
 # 이 책을 이용하여 강의를 하시는 분을 위한 강의 계획서
 * [강의계획서 예시](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
 : 강의에 활용하시는 강사님을 위한 강의소개, 강의목표, 주별 강의 계획서(15주 기준)를 제공합니다.
-- 강의용 ppt 파일은 출판사 홈페이지를 통해 신청하실 수 있습니다.( http://www.booksr.co.kr/ )
+- 강사님을 위한 강의용 ppt 파일은 출판사 홈페이지를 통해 신청하실 수 있습니다.( http://www.booksr.co.kr/ )
 
 ## 시작하기
 
@@ -31,8 +31,12 @@
 ```
 https://www.python.org/
 ```
+혹은 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
+```
+https://colab.research.google.com/
+```
 
-### 파이썬 설치
+### 파이썬 IDLE 설치
 
 파이썬 설치를 위한 단계별 절차는 책 1장에서 다루고 있습니다.
 설치단계는 https://www.python.org/ 에 접속하여 다운받아 설치만 하면 됩니다.
