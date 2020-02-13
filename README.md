@@ -5,7 +5,7 @@
 이 책의 소스코드와 주피터 노트북 파일, colab 주소, 정오표등 다양한 자료와 정보를 업로드할 예정입니다.
 
 - 책 미리보기는 다음 링크를 따라가 보세요 :
-[으뜸 파이썬 미리보기](https://github.com/dongupak/Prime-Python/blob/master/preview.md)*
+[으뜸 파이썬 미리보기](https://github.com/dongupak/Prime-Python/blob/master/preview.md)
 
 "으뜸 파이썬"은 파이썬을 처음 배우는 입문자와 다른 프로그래밍 언어를 익힌 상태에서 새롭게 파이썬에 도전하는 개발자를 위한 책입니다.
 이 책은 다음과 같은 특징이 있습니다.
