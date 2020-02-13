@@ -6,4 +6,4 @@ t.setup(width = 400, height = 400)
 t.forward(100)
 t.left(90)
 t.forward(100)
-t.bye()        # 이 부분 때문에 윈도가 사라짐
+# t.bye()        # 이 코드를 주석 처리해 보세요
