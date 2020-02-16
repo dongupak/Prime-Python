@@ -64,6 +64,8 @@ https://colab.research.google.com/
 
 ### 도움이 될만한 동영상 강좌
 
+* 널널한 교수의 으뜸 파이썬 Youtube 강좌
+  * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
 * 널널한 교수의 기초 파이썬 Youtube 강좌
   * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
 * 널널한 교수의 고급 파이썬 Youtube 강좌
