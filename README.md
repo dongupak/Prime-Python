@@ -40,11 +40,10 @@ https://www.python.org/
 https://colab.research.google.com/
 ```
 
-### 파이썬 IDLE 설치
+### 부록
 
-파이썬 설치를 위한 단계별 절차는 책 1장에서 다루고 있습니다.
-설치단계는 https://www.python.org/ 에 접속하여 다운받아 설치만 하면 됩니다.
-별도의 복잡한 단계는 없습니다.
+분량상 이 책에서 다루지 못한 개발도구를 소개합니다. 파이썬 개발도구에 대한 자세한 설명은 아래 부록을 참고하세요.
+* [부록](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
 
 ## 테스트 코드 수행하기
 
