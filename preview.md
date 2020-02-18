@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="github-image/list-ex.JPG#">
-  리스트 실습 코드의 예
+  <p>리스트 실습 코드의 예
 </p>
 
 <p align="center">
   <img src="github-image/turtle-ex.JPG#">
-  거북이 그래픽 실습 코드의 예
+  <p>거북이 그래픽 실습 코드의 예
 </p>
 
 - 다음과 같은 그림과 실습 코드를 보여줍니다
