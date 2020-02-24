@@ -1,4 +1,7 @@
-![](github-image/title-notext.JPG)
+<p align="center">
+  <img src="github-image/title-notext.JPG" width=500px>
+</p>
+
 # "으뜸 파이썬" 저장소 소개
 
 안녕하세요 독자여러분 이곳은 생능출판사의 *"으뜸 파이썬"* 관련 저장소입니다.
