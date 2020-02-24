@@ -59,7 +59,7 @@ Hello Hong GilDong !
 ## 페이지 : 307
 ### [그림 5-14]의 화살표 오류
 <p align="center">
-  <img src="../github-image/errata-fig-error.JPG" width=460px>
+  <img src="../github-image/errata-fig-error.JPG" width=450px>
   <p> 화살표의 위치에서 발생한 오류
 </p>
 * 수정내용 : 아래 그림과 같이 수정
