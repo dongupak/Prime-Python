@@ -8,4 +8,4 @@ def factorial(n):    # n!의 재귀적 구현
         return n * factorial(n-1)   # n * (n-1)! 정의에 따른 구현
  
 n = 5
-print('{}! = {}'.format(n, factorial(5)))
+print('{}! = {}'.format(n, factorial(n)))
