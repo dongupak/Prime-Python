@@ -110,3 +110,15 @@ Hello Hong GilDong !
   <img src="../github-image/errata-fig-fixed.JPG" width=460px>
   <p> 화살표의 위치를 수정한 내용
 </p>
+
+## 페이지 : 337
+### 오탈자 : 표 6-5의 오른쪽 두번째 행, 두번째 줄
+<pre>
+dic.pop(0) 호출 후
+dic = {1:22, 2:33, 3:44, 4:55. 5:66}
+</pre>
+수정후 : 5:66 생략가능
+<pre>
+dic.pop(0) 호출 후
+dic = {1:22, 2:33, 3:44, 4:55}
+</pre>
