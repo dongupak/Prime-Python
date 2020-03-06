@@ -88,3 +88,27 @@ https://colab.research.google.com/
 ## 저작권
 * 이 코드의 소유권은 모든 저자에게 있으나 비상업적 용도에 한해 자유롭게 이용가능하며 재배포 가능합니다.
 * 출판물을 무단 복제하거나 저자의 허락없이 배포하는 것은 법에 위반되는 행위입니다.
+
+## fork한 저장소를 최초 저장소의 내용과 일치시키는 방법
+```
+$ git remote add upstream https://github.com/dongupak/Prime-Python.git
+
+$ git fetch upstream
+remote: Enumerating objects: 91, done.
+remote: Counting objects: 100% (91/91), done.
+remote: Compressing objects: 100% (49/49), done.
+remote: Total 78 (delta 41), reused 29 (delta 17), pack-reused 0
+Unpacking objects: 100% (78/78), 19.00 KiB | 51.00 KiB/s, done.
+From https://github.com/dongupak/Prime-Python
+ * [new branch]      master     -> upstream/master
+
+$ git rebase upstream/master
+First, rewinding head to replay your work on top of it...
+Fast-forwarded master to upstream/master.
+
+$ git push origin master --force
+Total 0 (delta 0), reused 0 (delta 0)
+To https://github.com/dknife/Prime-Python.git
+   3655ac5..ec4965d  master -> master
+
+```
