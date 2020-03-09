@@ -199,17 +199,7 @@ Hello Hong GilDong !
   <img src="../github-image/errata-fig-fixed.JPG" width=460px>
   <p> 화살표의 위치를 수정한 내용
 </p>
-## 페이지 : 307
-### [그림 5-14]의 화살표 오류
-<p align="center">
-  <img src="../github-image/errata-fig-error.JPG" width=450px>
-  <p> 화살표의 위치에서 발생한 오류
-</p>
-* 수정내용 : 아래 그림과 같이 수정
-<p align="center">
-  <img src="../github-image/errata-fig-fixed.JPG" width=460px>
-  <p> 화살표의 위치를 수정한 내용
-</p>
+
 
 ## 페이지 : 334
 ### 오탈자 : 아래에서 5번째 줄
