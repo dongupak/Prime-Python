@@ -491,6 +491,16 @@ amount 만큼의 돈이 balance에서 빠져나감. 만일 amount가 money보다
 money 만큼의 돈이 balance에서 빠져나감. 만일 balance가 money보다 작으면
 </pre>
 
+## 페이지 : 565
+### 오탈자 : 사각형 이미지
+<pre>
+r1
+</pre>
+수정후 : 브라운 색의 r1 사각형을 r2로 수정(총 3건)
+<pre>
+r2
+</pre>
+
 ## 페이지 : 643
 ### 오탈자 : 위에서 2번째 줄, "주의" 상자의 zeors 오타가 3개 있습니다.
 <pre>
