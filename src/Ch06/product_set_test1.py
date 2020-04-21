@@ -6,7 +6,7 @@ def product_set(set1, set2) :
 
 A = {1, 3}
 B = {2, 4}
-AxB = product_set(A,B)
+AxB = product_set(A, B)
 print('A =', A)
 print('B =', B)
 print('AxB =', AxB)
