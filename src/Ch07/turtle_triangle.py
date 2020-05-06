@@ -5,7 +5,7 @@ import turtle as t
 
 t.shape("turtle")
 t.forward(100)
-t.left(120)
+t.left(120)      # 일반각을 사용합니다. 
 t.forward(100)
 t.left(120)
 t.forward(100)

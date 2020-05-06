@@ -3,8 +3,8 @@
 
 import turtle as t
 
-for _ in range(3):
+for _ in range(4):
     t.forward(100)
-    t.left(120)
+    t.left(90)
 
 t.done()

@@ -9,5 +9,6 @@ hundred = dt.timedelta(days = 100)        # 100일 경과시간
 plus100day = dt.datetime.now() + hundred  # 현재 시간에서 100일 경과시간을 더함
 print('100일 후 =', plus100day)
 
-minus100day = dt.datetime.now() - hundred  # 현재 시간에서 100일 경과시간을 뺌
-print('100일 전 =', minus100day)
+minus100day = dt.datetime.now() - hundred
+print('100일전 =',minus100day)
+

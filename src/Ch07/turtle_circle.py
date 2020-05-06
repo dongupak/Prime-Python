@@ -9,5 +9,6 @@ for i in range(1, 11):
     
 t.setheading(270)     # 오른쪽 원 그리기
 for i in range(1, 11):
-    t.circle(10*i)    
+    t.circle(10*i)
+    
 t.done()

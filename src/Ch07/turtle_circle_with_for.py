@@ -3,8 +3,8 @@
 
 import turtle as t
 
-n = 100
-length = 5
+n = 4
+length = 50
 for i in range(n):
     t.left(360/n)
     t.forward(length)

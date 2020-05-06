@@ -2,6 +2,7 @@
 ## "으뜸 파이썬", p. 413
 
 import turtle as t
+
 t.setup(width = 400, height = 400)
 for i in range(200):
     t.forward(i)

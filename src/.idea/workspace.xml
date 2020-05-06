@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f470214-f584-4c06-97c1-d1d3c5093a5b" name="Default Changelist" comment="" />
+    <list default="true" id="1f470214-f584-4c06-97c1-d1d3c5093a5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07/day_delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/day_delta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07/xmas_left_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/xmas_left_day.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +25,78 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch06" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
-  <component name="RunManager" selected="Python.tkinter_calculator2">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\dongupak\Documents\3.연구\2019연구\으뜸파이썬교재\Prime-Python\src\Ch06" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.day_delta">
+    <configuration name="day_delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch07/day_delta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_set_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch06/product_set_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_set_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch06/product_set_test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tkinter_calculator2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle_show2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xmas_left_day" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch07/turtle_show2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch07/xmas_left_day.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,8 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day_delta" />
+        <item itemvalue="Python.xmas_left_day" />
+        <item itemvalue="Python.product_set_test1" />
+        <item itemvalue="Python.product_set_test" />
         <item itemvalue="Python.tkinter_calculator2" />
-        <item itemvalue="Python.turtle_show2" />
       </list>
     </recent_temporary>
   </component>
@@ -85,21 +163,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1363" height="243" key="GridCell.Tab.0.bottom" timestamp="1581589612093">
+    <state x="946" y="255" key="FileChooserDialogImpl" timestamp="1587458834108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1363" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581589612093" />
-    <state width="1363" height="243" key="GridCell.Tab.0.center" timestamp="1581589612092">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="946" y="255" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587458834108" />
+    <state width="1543" height="224" key="GridCell.Tab.0.bottom" timestamp="1587632827421">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1363" height="243" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581589612092" />
-    <state width="1363" height="243" key="GridCell.Tab.0.left" timestamp="1581589612092">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1543" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587632491613" />
+    <state width="1543" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587632827421" />
+    <state width="1543" height="224" key="GridCell.Tab.0.center" timestamp="1587632827421">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1363" height="243" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581589612092" />
-    <state width="1363" height="243" key="GridCell.Tab.0.right" timestamp="1581589612092">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1543" height="224" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587632491613" />
+    <state width="1543" height="224" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587632827421" />
+    <state width="1543" height="224" key="GridCell.Tab.0.left" timestamp="1587632827421">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1363" height="243" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581589612092" />
+    <state width="1543" height="224" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587632491613" />
+    <state width="1543" height="224" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587632827421" />
+    <state width="1543" height="224" key="GridCell.Tab.0.right" timestamp="1587632827421">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1543" height="224" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587632491613" />
+    <state width="1543" height="224" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587632827421" />
+    <state x="2032" y="0" key="SettingsEditor" timestamp="1587458927537">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2032" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587458927537" />
   </component>
 </project>
