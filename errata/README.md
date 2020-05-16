@@ -411,6 +411,20 @@ set0 = {}와 같이 할 경우 이 타입은 dict 타입이 되므로 아래와 
 set0 = set()  
 </pre>
 
+## 페이지 : 352
+### 오탈자 : [표 6-14] issubset(s), issuperset(s), isdisjoint(s) 설명에서 s 는 대상
+<pre>
+issubset(s): s 집합이 부분 집합인가를 구한다.
+issuperset(s): s 집합이 상위 집합인가를 구한다.
+isdisjoint(s): s 집합이 서로소인가를 구한다.
+</pre>
+수정후 : s 를 주체가 아닌 대상으로 변경
+<pre>
+issubset(s): s 집합의 부분 집합인가를 구한다.
+issuperset(s): s 집합의 상위 집합인가를 구한다.
+isdisjoint(s): s 집합과 서로소인가를 구한다.
+</pre>
+
 ## 페이지 : 354
 ### 편집오류 : s1 n s2에서 n이 아닌 교집합 기호(∩)를 사용해야 함
 <pre>
