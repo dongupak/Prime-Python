@@ -684,6 +684,16 @@ change_label() 함수가
 컨텍스트 매니저
 </pre>
 
+## 페이지 : 509
+### 오탈자 : 마지막 문단 http:://
+<pre>
+http:://python.org/
+</pre>
+수정후 : "http:://"를 "http://"로 수정
+<pre>
+http://python.org/
+</pre>
+
 ## 페이지 : 511
 ### 오탈자 : 연습문제 1번 (4)
 <pre>
