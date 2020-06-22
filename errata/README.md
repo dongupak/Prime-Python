@@ -685,7 +685,7 @@ change_label() 함수가
 </pre>
 
 ## 페이지 : 509
-### 오탈자 : 마지막 문단 http:://
+### 오탈자 : 세번째 문장의 http:://
 <pre>
 http:://python.org/
 </pre>
