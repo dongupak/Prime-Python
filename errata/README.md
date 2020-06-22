@@ -735,6 +735,16 @@ change_label() 함수가
 이 코드의 파일 읽기에서 try 절은 open() 문을 이용하여 파일 읽기를 시도한다.
 </pre>
 
+## 페이지 : 509
+### 오탈자 : 세번째 문장의 http:://
+<pre>
+http:://python.org/
+</pre>
+수정후 : "http:://"를 "http://"로 수정
+<pre>
+http://python.org/
+</pre>
+
 ## 페이지 : 511
 ### 오탈자 : 연습문제 1번 (4)
 <pre>
