@@ -4,9 +4,6 @@
 ### *기여자(github id) : frea0227님, catmull님, dev-jhJoo님*
 ---
 
-[[주요 오류|PrimePython_Errata_A]]
-
-[[다듬을 내용|PrimePython_Errata_B]]
 
 # 오류
 ### 잘못된 코드 오류, 실행 결과 오류, 잘못된 설명, 잘못된 참조 번호(그림, 코드 등) 
