@@ -4,7 +4,7 @@
 ### *기여자(github id) : frea0227님, catmull님, dev-jhJoo님*
 ---
 
-[[주요 오류|Errata_A]]
+[주요 오류|Errata_A]
 
 [[다듬을 내용|Errata_B]]
 
