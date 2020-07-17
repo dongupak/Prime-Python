@@ -13,10 +13,10 @@ except:
     print('Unexpected error:', sys.exc_info()[0])
     sys.exit()
 
-n = 1   # 숫자 1번입니다.
+n = 1               # n을 1로 초기화 함
 l = f.readline()    # 변수 l은 읽어들인 한 줄의 문자열을 저장합니다.
 while l :
     print('{:3d}: {}'.format(n, l), end = '')
-    n += 1
-    l = f.readline()
+    n += 1          # 한 줄을 출력한 후 줄 수를 증가시킨다
+    l = f.readline()# 다음 줄을 읽어온다
 f.close()

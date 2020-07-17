@@ -4,11 +4,10 @@
 import turtle as t
 
 t.shape("turtle")
-t.forward(100)
-t.left(120)      # 일반각을 사용합니다. 
-t.forward(100)
-t.left(120)
-t.forward(100)
-t.left(120)
-
+t.forward(100)   # 터틀을 헤딩 방향으로 100 픽셀 이동
+t.left(120)      # 터틀의 헤딩 방향을 왼쪽으로 120도 회전
+t.forward(100)   # 터틀을 헤딩 방향으로 100 픽셀 이동
+t.left(120)      # 터틀의 헤딩 방향을 왼쪽으로 120도 회전
+t.forward(100)   # 터틀을 헤딩 방향으로 100 픽셀 이동
+t.left(120)      # 터틀의 헤딩 방향을 왼쪽으로 120도 회전
 t.done()

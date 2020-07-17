@@ -1,4 +1,5 @@
-This will be appended.
-This too.
+AAA
+BBB
+CCC
 This will be appended.
 This too.
