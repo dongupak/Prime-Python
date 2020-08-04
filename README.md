@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-image/title-notext.JPG" width=500px>
+  <img src="github-image/prime_python_cover.jpg" width=400px>
 </p>
 
 # "으뜸 파이썬" 저장소 소개
