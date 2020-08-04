@@ -2,6 +2,9 @@
   <img src="github-image/prime_python.jpg" width=450px>
 </p>
 
+# 한국출판문화산업진흥원의 <2020년 세종도서 학술부문> 학술도서로 “으뜸 파이썬”이 선정되었습니다.
+[관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
+
 # "으뜸 파이썬" 저장소 소개
 
 안녕하세요 독자여러분 이곳은 생능출판사의 *"으뜸 파이썬"* 관련 저장소입니다.
@@ -16,9 +19,6 @@
 
 - 책 미리보기는 다음 링크를 따라가 보세요 :
 [으뜸 파이썬 미리보기](https://github.com/dongupak/Prime-Python/blob/master/preview.md)
-
-# 한국출판문화산업진흥원의 <2020년 세종도서 학술부문> 학술도서로 “으뜸 파이썬”이 선정되었습니다.
-[관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
 
 # 책의 목차
 * [목차](https://github.com/dongupak/Prime-Python/blob/master/contents.md)
