@@ -54,6 +54,8 @@ https://colab.research.google.com/
 
 ## 수행하기
 * 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
+* [구글 코랩 환경](https://drive.google.com/open?id=1j3gO8q_YwYH4ImcEN2AxhWbxaUiyfiMi)
+: 웹상에서 책의 코드를 실행해 볼 수 있습니다(터틀 그래픽, tkinter, 파일입출력등 일부는 제외)
 * [주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
 : ipynb 확장자를 가지는 노트북 파일로 각 장별 코드가 제공됩니다.
 * [파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
