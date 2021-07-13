@@ -3,8 +3,8 @@
 </p>
 
 # 한국출판문화산업진흥원의 **<2020년 세종도서 학술부문> 학술도서로** “으뜸 파이썬”이 선정되었습니다.
-[관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
-* * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
+* [관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
+* 온라인 구매 링크 : [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
 
 ***
 # "으뜸 파이썬" 저장소 소개
