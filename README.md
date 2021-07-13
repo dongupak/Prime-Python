@@ -4,6 +4,7 @@
 
 # 한국출판문화산업진흥원의 **<2020년 세종도서 학술부문> 학술도서로** “으뜸 파이썬”이 선정되었습니다.
 [관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
+* * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
 
 ***
 # "으뜸 파이썬" 저장소 소개
@@ -35,6 +36,18 @@
 
 생능출판사의 "으뜸 파이썬"은 파이썬의 기초부터 고급 기능까지를 폭넓게 다루고 있는 책입니다.
 이 책은 프로그램을 처음 접하는 입문자를 위한 파이썬 설치에서부터 고급 모듈, 예외처리, 람다함수, 리스트 축약표현과 넘파이까지 다루고있습니다.
+
+### 함께 보면 좋은 책
+책을 읽은 후 파이썬과 데이터 다루기, 머신러닝에 관련된 저자들의 책을 함께 보면 더 좋습니다. 
+
+* (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
+* [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
+* 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
+* [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
+<p align="center">
+  <img src="image/Prime_ML.jpg" width=200px>
+  <img src="image/Py_Data_Sci_book.jpeg" width=200px>
+</p>
 
 ### 사전 지식
 
