@@ -41,9 +41,9 @@
 책을 읽은 후 파이썬과 데이터 다루기, 머신러닝에 관련된 저자들의 책을 함께 보면 더 좋습니다. 
 
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
-* [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
+  * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
 * 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
-* [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
+  * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
 <p align="center">
   <img src="github-image/Py_Data_Sci_book.jpeg" width=200px>
   <img src="github-image/Prime_ML.jpg" width=200px>
@@ -52,26 +52,27 @@
 ### 사전 지식
 
 이 저장소의 코드를 실행하기 위해서는 다음 웹 사이트에 접속하여 파이썬 IDLE를 다운받아 설치하여야 합니다.
-```
-https://www.python.org/
-```
+   * https://www.python.org/
+
 혹은 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
-```
-https://colab.research.google.com/
-```
+   * https://colab.research.google.com/
 
 ### 부록
 
 분량상 이 책에서 다루지 못한 개발도구를 소개합니다. 파이썬 개발도구에 대한 자세한 설명은 아래 부록을 참고하세요.
 * [부록](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
 
+# 강의 PPT
+* 이 책으로 강의를 하실분을 위한 강의 PPT가 제공됩니다.
+* 강의 PPT 자료 : https://booksr.co.kr/ 교수회원으로 로그인 후 강의자료 다운로드가 가능합니다.
+
 ## 수행하기
 * 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
-* [구글 코랩 환경](https://drive.google.com/open?id=1j3gO8q_YwYH4ImcEN2AxhWbxaUiyfiMi)
+  * [구글 코랩 환경](https://drive.google.com/open?id=1j3gO8q_YwYH4ImcEN2AxhWbxaUiyfiMi)
 : 웹상에서 책의 코드를 실행해 볼 수 있습니다(터틀 그래픽, tkinter, 파일입출력등 일부는 제외)
-* [주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
+  * [주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
 : ipynb 확장자를 가지는 노트북 파일로 각 장별 코드가 제공됩니다.
-* [파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
+  * [파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
 : py 확장자를 가지는 파이썬 파일로 각 장별 코드가 제공됩니다.
 
 ## "으뜸 파이썬" 정오표
@@ -79,14 +80,15 @@ https://colab.research.google.com/
   * [정오표](https://github.com/dongupak/Prime-Python/tree/master/errata)
 
 ### 도움이 될만한 동영상 강좌
-
 * 널널한 교수의 으뜸 파이썬 Youtube 강좌
   * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
 * 널널한 교수의 기초 파이썬 Youtube 강좌
   * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
 * 널널한 교수의 고급 파이썬 Youtube 강좌
   * https://www.youtube.com/watch?v=HYg_Zp1186M&list=PL2P1Vm9k53HMUI3i_UKRfWc3ePzAVerhc
- 
+* "따라하며 배우는 파이썬과 데이터 과학(2020 출판)" Youtube 강좌
+  * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
+
 ***
 ## 기여하실 분
 
