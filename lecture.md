@@ -23,7 +23,7 @@
 - 주차별 계획에 따라 강사의 동영상 강의 혹은, 아래“널널한 교수의 으뜸 파이썬” 동영상 강의를 미리 듣고,  각 절의 LAB 문제와 각 장의 주요 연습문제를 강사와 함께 풀어봅니다.(문제 풀이 포함 전체 47개 가량의 학습 동영상으로 구성)
 - 문제를 풀면서 해결이 안될 경우 동료 학습자와 토의하며 함께 해결해 봅니다. 해결 후 강사와 함께 문제에 대하여 토의하고 더 난이도 높은 문제에 도전해 봅니다.
 - 문제 해결 후 동영상 강의를 다시 한번 듣고 복습해 봅니다.
-- https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
+  - https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
 
 # 주별 계획
 ## 1주 : 파이썬을 소개하는 시간
