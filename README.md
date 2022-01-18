@@ -28,7 +28,7 @@
 : 으뜸 파이썬 책의 목차를 제공합니다.
 
 # 책의 PDF(으뜸 파이썬 PDF(샘플)) - 5장 리스트 예시
-* [목차](https://github.com/dongupak/Prime-Python/blob/master/으뜸파이썬_.pdf)
+* [으뜸 파이썬 PDF](https://github.com/dongupak/Prime-Python/blob/master/으뜸파이썬_.pdf)
 : 으뜸 파이썬 책의 샘플 PDF 파일을 제공합니다.
 
 # 이 책을 이용하여 강의를 하시는 분을 위한 강의 계획서
