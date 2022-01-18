@@ -27,6 +27,10 @@
 * [목차](https://github.com/dongupak/Prime-Python/blob/master/contents.md)
 : 으뜸 파이썬 책의 목차를 제공합니다.
 
+# 책의 PDF(으뜸 파이썬 PDF(샘플)) - 5장 리스트 예시
+* [목차](https://github.com/dongupak/Prime-Python/blob/master/으뜸파이썬_.pdf)
+: 으뜸 파이썬 책의 샘플 PDF 파일을 제공합니다.
+
 # 이 책을 이용하여 강의를 하시는 분을 위한 강의 계획서
 * [강의계획서 예시](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
 : 강의에 활용하시는 강사님을 위한 강의소개, 강의목표, 주별 강의 계획서(15주 기준)를 제공합니다.
@@ -60,7 +64,7 @@
 ### 부록
 
 분량상 이 책에서 다루지 못한 개발도구를 소개합니다. 파이썬 개발도구에 대한 자세한 설명은 아래 부록을 참고하세요.
-* [부록](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
+* [으뜸 파이썬 부록 PDF](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
 
 # 강의 PPT
 * 이 책으로 강의를 하실분을 위한 강의 PPT가 제공됩니다.
