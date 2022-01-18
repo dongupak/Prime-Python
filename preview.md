@@ -14,13 +14,13 @@
 
 - 각 절마다 적절한 수준의 연습 문제를 제공합니다.
 <p align="center">
-  <img src="github-image/lab-ex.JPG">
   <p>LAB 문제의 예
+  <p><img src="github-image/lab-ex.JPG">
 </p>
 
 # 또한 각 장마다 고급 연습 문제를 제공합니다.
 - 각 절마다 적절한 수준의 연습 문제를 제공합니다.
 <p align="center">
-  <p> 연습문제 예시
-  <img src="github-image/exercise.JPG">
+  <p> 연습문제 예시 
+  <p><img src="github-image/exercise.JPG">
 </p>
