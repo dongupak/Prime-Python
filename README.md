@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-image/prime_python.jpg" width=450px>
+  <img src="github-image/Prime_Python_2nd_ed.jpeg" width=450px>
 </p>
 
 # 한국출판문화산업진흥원의 **<2020년 세종도서 학술부문> 학술도서로** “으뜸 파이썬”이 선정되었습니다.
