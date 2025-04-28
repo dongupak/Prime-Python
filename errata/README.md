@@ -5,5 +5,5 @@
 ---
 [으뜸 파이썬 1판 정오표](https://github.com/dongupak/Prime-Python/blob/master/errata/Prime_Python_errata_1st_ed.md)
 
-[으뜸 파이썬 개장판 1쇄 정오표](https://github.com/dongupak/Prime-Python/blob/master/errata/으뜸_파이썬(개정판)_1쇄_정오표v1.pdf.md)
+[으뜸 파이썬 개정판 1쇄 정오표](https://github.com/dongupak/Prime-Python/blob/master/errata/으뜸_파이썬(개정판)_1쇄_정오표v1.pdf)
 
