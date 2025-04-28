@@ -50,9 +50,9 @@
 책을 읽은 후 파이썬과 데이터 다루기, 머신러닝에 관련된 저자들의 책을 함께 보면 더 좋습니다. 
 
 * (따라하며 배우는) 파이썬과 데이터 과학(개정판), 천인국, 박동규, 강영민, 생능출판사 (2023)
-  * [[YES24]]([https://www.yes24.com/product/goods/123677210])
+  * [[YES24]](https://www.yes24.com/product/goods/123677210)
 * (따라하며 배우는) 빅데이터 분석, 박동규, 생능출판사 (2024)
-  * [[YES24]]([https://www.yes24.com/product/goods/138471950])
+  * [[YES24]](https://www.yes24.com/product/goods/138471950)
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 김병욱, 생능출판사 (2024)
   * [[YES24]](http://www.yes24.com/Product/Goods/139931427)
 <p align="center">
