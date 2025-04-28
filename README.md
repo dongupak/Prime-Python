@@ -71,7 +71,7 @@
 ### 부록
 
 분량상 이 책에서 다루지 못한 개발도구를 소개합니다. 파이썬 개발도구에 대한 자세한 설명은 아래 부록을 참고하세요.
-* [으뜸 파이썬 부록 PDF](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
+* [으뜸 파이썬 1판 부록 PDF](https://github.com/dongupak/Prime-Python/blob/master/부록.pdf)
 
 # 강의 PPT
 * 이 책으로 강의를 하실분을 위한 강의 PPT가 제공됩니다.
@@ -79,19 +79,19 @@
 
 ## 수행하기
 * 파이썬 코드는 파이썬 IDLE나 주피터 노트북이나 구글 colab등 다양한 환경에서 실행시킬 수 있습니다.
-  * [구글 코랩 환경](https://drive.google.com/open?id=1j3gO8q_YwYH4ImcEN2AxhWbxaUiyfiMi)
+  * [1판 구글 코랩 환경](https://drive.google.com/open?id=1j3gO8q_YwYH4ImcEN2AxhWbxaUiyfiMi)
 : 웹상에서 책의 코드를 실행해 볼 수 있습니다(터틀 그래픽, tkinter, 파일입출력등 일부는 제외)
-  * [주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
+  * [1판 주피터 노트북 파일](https://github.com/dongupak/Prime-Python/tree/master/jupyter-notebook)
 : ipynb 확장자를 가지는 노트북 파일로 각 장별 코드가 제공됩니다.
-  * [파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
+  * [1판 파이썬 소스코드](https://github.com/dongupak/Prime-Python/tree/master/src)
 : py 확장자를 가지는 파이썬 파일로 각 장별 코드가 제공됩니다.
 
 ## "으뜸 파이썬" 정오표
 * 이 책의 정오표는 다음 저장소를 보시기 바랍니다(책의 오류로 불편을 드린점 사과드립니다)
-  * [정오표](https://github.com/dongupak/Prime-Python/tree/master/errata)
+  * [1판과 개정판 정오표](https://github.com/dongupak/Prime-Python/tree/master/errata)
 
 ### 도움이 될만한 동영상 강좌
-* 널널한 교수의 으뜸 파이썬 Youtube 강좌
+* 널널한 교수의 으뜸 파이썬 Youtube 강좌(1판)
   * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
 * 널널한 교수의 기초 파이썬 Youtube 강좌
   * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
@@ -102,11 +102,9 @@
 
 ***
 ## 기여하실 분
-
 이 코드에 이상이 있거나 기여를 하실 분은 Fork후에 Request를 주시기 바랍니다.
 
 ## 버저닝
-
 이 저장소는 으뜸 파이썬 1판의 저장소로 2판, 3판에 따라 각각 다른 버전이 나타날 수 있습니다.
 
 ## 저자
