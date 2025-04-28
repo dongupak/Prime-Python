@@ -3,8 +3,8 @@
 </p>
 
 # 한국출판문화산업진흥원의 **<2020년 세종도서 학술부문> 학술도서로** “으뜸 파이썬”이 선정되었습니다.
-* [관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
-* 온라인 구매 링크 : [[YES24]](http://www.yes24.com/Product/Goods/127086641)
+* [세종도서 관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
+* 온라인 구매 링크 : [[YES24]](http://www.yes24.com/Product/Goods/127086641)(개정판)
 
 ***
 # "으뜸 파이썬(1판)"
@@ -29,15 +29,15 @@
 
 ***
 # 책의 목차
-* [목차](https://github.com/dongupak/Prime-Python/blob/master/contents_1st_ed.md)
+* [1판 목차](https://github.com/dongupak/Prime-Python/blob/master/contents_1st_ed.md)
 : 책의 목차를 제공합니다.
 
 # 책의 PDF(으뜸 파이썬 PDF(샘플)) - 5장 리스트 예시
-* [으뜸 파이썬 PDF](https://github.com/dongupak/Prime-Python/blob/master/으뜸파이썬_샘플챕터.pdf)
+* [으뜸 파이썬 1판 샘플 PDF](https://github.com/dongupak/Prime-Python/blob/master/으뜸파이썬_샘플챕터.pdf)
 : 으뜸 파이썬 책의 샘플 PDF 파일을 제공합니다.
 
 # 이 책을 이용하여 강의를 하시는 분을 위한 강의 계획서
-* [강의계획서 예시](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
+* [강의계획서 예시(1판)](https://github.com/dongupak/Prime-Python/blob/master/lecture.md)
 : 강의에 활용하시는 강사님을 위한 강의소개, 강의목표, 주별 강의 계획서(15주 기준)를 제공합니다.
 - 강사님을 위한 강의용 ppt 파일은 출판사 홈페이지를 통해 신청하실 수 있습니다.( http://www.booksr.co.kr/ )
 
@@ -49,10 +49,12 @@
 ### 함께 보면 좋은 책
 책을 읽은 후 파이썬과 데이터 다루기, 머신러닝에 관련된 저자들의 책을 함께 보면 더 좋습니다. 
 
-* (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
-  * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
-* 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
-  * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
+* (따라하며 배우는) 파이썬과 데이터 과학(개정판), 천인국, 박동규, 강영민, 생능출판사 (2023)
+  * [[YES24]]([https://www.yes24.com/product/goods/123677210])
+* (따라하며 배우는) 빅데이터 분석, 박동규, 생능출판사 (2024)
+  * [[YES24]]([https://www.yes24.com/product/goods/138471950])
+* 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 김병욱, 생능출판사 (2024)
+  * [[YES24]](http://www.yes24.com/Product/Goods/139931427)
 <p align="center">
   <img src="github-image/Py_Data_Sci_book.jpeg" width=200px>
   <img src="github-image/Prime_ML.jpg" width=200px>
