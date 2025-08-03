@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="github-image/Prime_Python_book_2nd_ed.jpeg" width=450px>
-</p>
-
 # 한국출판문화산업진흥원의 **<2020년 세종도서 학술부문> 학술도서로** “으뜸 파이썬”이 선정되었습니다.
 * [세종도서 관련 언론 보도링크](https://www.asiae.co.kr/article/2020072816245298554)
 * 온라인 구매 링크 : [[YES24]](http://www.yes24.com/Product/Goods/127086641)(개정판)
+<p align="center">
+  <img src="github-image/Prime_Python_book_2nd_ed.jpeg" width=450px>
+</p>
 
 ***
 # "으뜸 파이썬(1판)"
@@ -29,6 +28,7 @@
 
 ***
 # 책의 목차
+* [개정판 목차](https://github.com/dongupak/Prime-Python/blob/master/contents_2nd_ed.md)
 * [1판 목차](https://github.com/dongupak/Prime-Python/blob/master/contents_1st_ed.md)
 : 책의 목차를 제공합니다.
 
